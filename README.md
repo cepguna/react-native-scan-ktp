@@ -49,7 +49,7 @@ pnpm android
 <p align='center'>
   <span>
       <image width="200" src='./screenshots/a.jpg' />
-      <image width="200" src='./screenshots/b.jpb' />
+      <image width="200" src='./screenshots/b.jpg' />
   </span>
  </p>
  
